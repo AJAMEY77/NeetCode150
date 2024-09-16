@@ -12,7 +12,7 @@ class dupInt {
     }
 
     public static void main(String[] args) {
-        Solution sol = new Solution();
+        dupInt sol = new dupInt();
         
         int[] nums1 = {1, 2, 3, 4};
         System.out.println("Has duplicate: " + sol.hasDuplicate(nums1));
