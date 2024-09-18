@@ -13,6 +13,8 @@ public class twoNum {
         return n;
     }
 
+
+
     public static void main(String[] args) {
         twoNum sol = new twoNum();
         

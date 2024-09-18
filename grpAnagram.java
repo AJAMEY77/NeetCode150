@@ -10,6 +10,8 @@ class grpAnagram {
                 arr[c - 'a']++;
             }
 
+
+
             String str = Arrays.toString(arr);
             if (!q.containsKey(str)) {
                 q.put(str, new ArrayList<>());
